@@ -1,0 +1,15 @@
+
+Name of Quantlet:  VizTech
+
+Published in:     'Under review - Handbook of Blockchain Analytics'
+
+Description:      'a pilot analysis on Non Fungible Tokens (NFTs) specifically CryptoPunks. The chapter investigates clustering and similarities among digital assets using visualization techniques, such as UMAP    (Uniform Manifold Approximation and Projection). The clusters identified through regression CNN and UMAP are associated with prices and traits of CryptoPunks.'
+
+Submitted:  '29 Sep 2022'
+
+Keywords: 
+- 'VizTech'
+- 'NFT'
+
+Author: 
+- 'Bingling Wang'
