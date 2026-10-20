@@ -14,11 +14,11 @@ Description: a pilot analysis on Non Fungible Tokens (NFTs) specifically CryptoP
 Submitted: 29 Sep 2022
 
 Keywords: 
-- 'VizTech
-- 'NFT
+- VizTech
+- NFT
 
 Author: 
-- 'Bingling Wang
+- Bingling Wang
 
 ```
 <div align="center">
